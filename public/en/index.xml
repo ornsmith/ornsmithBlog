@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Orn Smith&#39;s Blog</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content on Orn Smith&#39;s Blog</description>
+    <image>
+      <title>Orn Smith&#39;s Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating the AI Governance Landscape: The Players and the Missing Pieces</title>
+      <link>http://localhost:1313/en/posts/ai-governace-players-gaps/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/ai-governace-players-gaps/</guid>
+      <description>Over the past 5-6 months, I’ve been diving deep into the world of AI alignment and governance. Given my background as a go-to-market practitioner and my interest in advocacy, I’m particularly fascinated by how this field is becoming more accessible, especially within the private sector. This article is my wrap-up of the research I’ve done so far, along with some thoughts on where the gaps lie in the current AI governance landscape.</description>
+    </item>
+    <item>
+      <title>Welcome!</title>
+      <link>http://localhost:1313/en/posts/welcome/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/welcome/</guid>
+      <description>Thanks for visiting and sorry my blog in English looks pretty empty here. This blog is still in progress. I&amp;rsquo;m in the middle of migrating from my old site, editing and transferring my content here. Please stay tune!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/connect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/connect/</guid>
+      <description>Follow me at
+Facebook LinkedIn Contact Email: orn [at] ornsmith.com</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>Hello there! Glad to see you&amp;rsquo;re interested in hearing more about me! This page is kinda long as I&amp;rsquo;ve tried to reflect on who I am and who I want to be.
+Who am I? When I write online, I go by the pen name Orn Smith. I&amp;rsquo;m a writer, educator, and entrepreneur driven to make a positive impact. I&amp;rsquo;ve dedicated my career to empowering individuals and shaping industries.
+My Journey At 23, I took a leap of faith and founded my own company.</description>
+    </item>
+    <item>
+      <title>Marketing &amp; Training</title>
+      <link>http://localhost:1313/en/portfolio/training-marketing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/portfolio/training-marketing/</guid>
+      <description>I&amp;rsquo;m passionate in educational design, capacity building and helping individuals and organizations grow. My specialization is in Inbound Marketing and related fields.
+Inbound Marketing (Digital Marketing Strategy)
+Inbound Marketing is a set of proven marketing strategies that brings together branding, content marketing, first-party data collection, and marketing technology. It’s been a secret sauce of how I acquired and retain customers of my businesses, as well as providing the service to my clients.</description>
+    </item>
+    <item>
+      <title>Venture Building</title>
+      <link>http://localhost:1313/en/portfolio/product-venture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/portfolio/product-venture/</guid>
+      <description>As a seasoned entrepreneur, I&amp;rsquo;ve played a pivotal role in the founding and growth of several successful ventures across diverse industries. My portfolio includes experiences in media &amp;amp; publication, education, digital marketing services, and e-commerce products.
+One of my most notable accomplishments is the development of &amp;ldquo;Content Shifu,&amp;rdquo; a leading digital marketing media, education, and ecosystem builder. From its inception, I spearheaded its growth into a thriving company that has established a strong presence in the market.</description>
+    </item>
+    <item>
+      <title>Welcome to My Portfolio</title>
+      <link>http://localhost:1313/en/portfolio/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/portfolio/overview/</guid>
+      <description>A multifaceted professional at the intersection of policy analysis, strategic marketing, and technology.
+Open for new opportunities: in policy analysis and advocacy, or program management [see my policy-related projects] coming soon!
+Prior to that, I have 10 years of experience in the online content and marketing industries, as well as 7+ years as an entrepreneur, consultant and educator and have educated over 3,000 professionals.
+As a consultant, I currently offer these services:</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Design on Orn Smith&#39;s Blog</title>
+    <link>http://localhost:1313/th/tags/design/</link>
+    <description>Recent content in Design on Orn Smith&#39;s Blog</description>
+    <image>
+      <title>Orn Smith&#39;s Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>th</language>
+    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/th/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ทำไมการเรียน Design ถึงมีส่วนช่วยให้คุณเป็นผู้จัดการที่ดีขึ้น</title>
+      <link>http://localhost:1313/th/posts/why-design-helps-you-be-better-manager/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/posts/why-design-helps-you-be-better-manager/</guid>
+      <description>…งานในปัจจุบันของอร คือการเป็นผู้จัดการ
+เมื่อวันที่เราต้องถือบทบาทผู้จัดการและผู้ประกอบการ เราพบว่ามีสิ่งที่เราต้องเรียนรู้เยอะมาก เยอะมากจนกองเป็นภูเขาเลากา
+แน่นอนว่าเรื่องของ Management และ Leadership Skills อยู่ในภูเขากองนั้นด้วย และด้วยความที่อยู่ในสายงานดิจิทัล ก็จะมีเรื่อง Hard Skills ในสายงานอยู่ในภูเขากองนั้นด้วยเช่นกัน
+แต่มีอยู่อีกเรื่องหนึ่งที่เราหยิบใส่ในตารางเรียนรู้ของเราด้วยเช่นกัน นั่นคือเรื่อง ’Design’
+…หือ Design? ดีไซน์เนี่ยนะ?
+คุณคงนึกแปลกใจว่า การเป็นผู้จัดการมันเกี่ยวอะไรกับดีไซน์ ดีไซน์เป็นงานของดีไซเนอร์หนิ? และเราก็ควร ”Put the right man on the right job” ไม่ใช่หรอ
+…แต่เราก็ยังอยากขอยืนยันคำเดิมอยู่ว่าเราพูดถึง Design จริงๆ ค่ะ
+โดยเหตุผลหลักๆ เราขอแตกออกมาเป็นสองเรื่องใหญ่ๆ ดังนี้
+ดีไซน์มีบทบาทสำคัญต่อธุรกิจยุคใหม่ ในยุคที่ร้านกาแฟแต่ละร้านแทบจะไม่ต่างกัน สบู่แชมพูยาสีฟัน ฯลฯ ทุกๆ อย่างแทบจะไม่ต่างกัน หากมีใครสร้างความโดดเด่นหรือแตกต่างให้กับธุรกิจของตัวเองได้ คนนั้นคือผู้ชนะที่จะไปต่อ
+มาดูในฟากสถิติกันบ้าง อาชีพดีไซเนอร์ในธุรกิจ (โดยเฉพาะธุรกิจสายดิจิทัล) เป็นอาชีพที่มีการเติบโตสูงมากขึ้นเรื่อยๆ
+อ้างอิงจากรายงาน Design in Tech Report ฉบับปี 2017 ได้ระบุถึงสถิติจากทาง LinkedIn ว่า Design Talents เป็นที่ต้องการเป็นอย่างมากในวงการเทค/ดิจิทัล บริษัทชั้นนำอย่าง Facebook, Google และ Amazon มีจำนวน Headcounts ของตำแหน่งที่เกี่ยวกับดีไซน์พุ่งสูงขึ้นถึง 65% ภายในปีที่ผ่านมา และยังมีแนวโน้มที่จะเติบโตขึ้นอีก</description>
+    </item>
+  </channel>
+</rss>

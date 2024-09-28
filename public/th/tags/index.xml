@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Orn Smith&#39;s Blog</title>
+    <link>http://localhost:1313/th/tags/</link>
+    <description>Recent content in Tags on Orn Smith&#39;s Blog</description>
+    <image>
+      <title>Orn Smith&#39;s Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>th</language>
+    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/th/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business</title>
+      <link>http://localhost:1313/th/tags/business/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entrepreneurship</title>
+      <link>http://localhost:1313/th/tags/entrepreneurship/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Memories</title>
+      <link>http://localhost:1313/th/tags/memories/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/memories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/th/tags/books/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/th/tags/education/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marketing</title>
+      <link>http://localhost:1313/th/tags/marketing/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Film</title>
+      <link>http://localhost:1313/th/tags/film/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/film/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/th/tags/life/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Community</title>
+      <link>http://localhost:1313/th/tags/community/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>http://localhost:1313/th/tags/design/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Management</title>
+      <link>http://localhost:1313/th/tags/management/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/management/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

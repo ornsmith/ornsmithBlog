@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Portfolios on Orn Smith&#39;s Blog</title>
+    <link>http://localhost:1313/th/portfolio/</link>
+    <description>Recent content in Portfolios on Orn Smith&#39;s Blog</description>
+    <image>
+      <title>Orn Smith&#39;s Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>th</language>
+    <atom:link href="http://localhost:1313/th/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Portfolio</title>
+      <link>http://localhost:1313/th/portfolio/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/portfolio/overview/</guid>
+      <description>To be updated รอติดตามในเร็วๆ นี้ เอาของเก่ามาแปะก่อนน้า
+อดีตผู้ร่วมก่อตั้ง Content Shifu และ Magnetolabs ถ่ายทอดและเผยแพร่องค์ความรู้ในสายดิจิทัลมามากกว่า 7 ปี ผ่านการเป็นบล็อกเกอร์และคอลัมนิสต์ใหักับสื่อต่างๆ และเป็นอดีต Head of Content ของ Techsauce Media รวมถึงเป็นนักเขียนเจ้าของหนังสือ Inbound Marketing: 50 เคล็ดวิชาการตลาดแบบแรงดึงดูด
+จบการศึกษา ปริญญาตรีจากคณะเทคโนโลยีสารสนเทศและการสื่อสาร (ICT) มหาวิทยาลัยมหิดล ในสาขาระบบฐานข้อมูลและระบบเชิงปัญญา (Database &amp;amp; Intelligent Systems) ปริญญาโท จาก Carnegie Mellon’s Heinz College of Information Systems and Public Policy ประเทศ สหรัฐอเมริกา
+ประสบการณ์การทำงาน อดีต Co-Founder, Content Director และ Managing Partner ของ Content Shifu และ Magnetolabs อดีต Brand Evangelist บริษัท จีเอเบิล จำกัด (www.g-able.com) อดีตผู้ร่วมก่อตั้ง และ Content &amp;amp; Program Manager เว็บไซต์ The VIABLE (www.</description>
+    </item>
+  </channel>
+</rss>
