@@ -6,13 +6,20 @@
     <description>Recent content in Posts on Orn Smith&#39;s Blog</description>
     <image>
       <title>Orn Smith&#39;s Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/img/about-orn.jpg</url>
+      <link>http://localhost:1313/img/about-orn.jpg</link>
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>th</language>
-    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/th/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Work in Progress</title>
+      <link>http://localhost:1313/th/posts/2024-comeback/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/posts/2024-comeback/</guid>
+      <description>เผื่อว่าคุณหลงเข้ามา</description>
+    </item>
     <item>
       <title>จดหมายอำลาจาก อร, อดีต Content Shifu และบันทึกความทรงจำตลอด 6 ปีที่ผ่านมา</title>
       <link>http://localhost:1313/th/posts/contentshifu-goodbye-memories/</link>

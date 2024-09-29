@@ -6,8 +6,8 @@
     <description>Recent content on Orn Smith&#39;s Blog</description>
     <image>
       <title>Orn Smith&#39;s Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/img/about-orn.jpg</url>
+      <link>http://localhost:1313/img/about-orn.jpg</link>
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-US</language>
@@ -32,8 +32,8 @@
       <link>http://localhost:1313/en/connect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/connect/</guid>
-      <description>Follow me at
-Facebook LinkedIn Contact Email: orn [at] ornsmith.com</description>
+      <description>Connect with me at:
+LinkedIn Contact: osmithip[at]alumni.cmu.edu</description>
     </item>
     <item>
       <title>About Me</title>
