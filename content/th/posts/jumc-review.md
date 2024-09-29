@@ -17,6 +17,10 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
+
+aliases:
+- /th/jumc10-and-jumcnext11/
+
 cover:
     #image: "/img/Coverbook_inbound-marketing_mockup.webp" # image path/url
     #alt: "หนังสือ Inbound Marketing" # alt text
