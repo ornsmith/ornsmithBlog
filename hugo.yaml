@@ -32,7 +32,7 @@ languages:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Orn Smith's Blog
-  gtm-id: "GTM-KMD62ZP"
+  gtm_id: "GTM-KMD62ZP"
   # description: "ExampleSite description"
   # keywords:
   author: Orn
