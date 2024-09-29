@@ -1,5 +1,4 @@
-Follow me at
-- [Facebook](https://www.facebook.com/ornsmith/)
+Connect with me at:
 - [LinkedIn](https://www.linkedin.com/in/ornsmith/)
 
-Contact Email: orn [at] ornsmith.com
+Contact: osmithip[at]alumni.cmu.edu

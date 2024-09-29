@@ -3,6 +3,6 @@
 - [LinkedIn](https://www.linkedin.com/in/ornsmith/)
 
 ช่องทางการติดต่อ
-อีเมล orn [at] ornsmith.com
+อีเมล osmithip[at]alumni.cmu.edu
 
 
