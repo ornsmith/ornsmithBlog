@@ -9,6 +9,11 @@ hidemeta: false
 UseHugoToc: true
 showToc: true
 TocOpen: false
+
+aliases:
+- /th/google-certified-educator/ 
+- /google-certified-educator/ 
+
 cover:
     image: "/img/google-certified-educator-lv1.png" # image path/url
     alt: "google certified educator" # alt text

@@ -8,6 +8,11 @@ hidemeta: false
 UseHugoToc: true
 showToc: true
 TocOpen: false
+
+aliases:
+- /quarter-life-crisis/
+- /th/quarter-life-crisis/
+
 cover:
     # image: "/img/online-community-building-lessons-jeban.webp" # image path/url
     # alt: "" # alt text

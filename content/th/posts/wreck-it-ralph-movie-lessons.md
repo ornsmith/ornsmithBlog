@@ -9,6 +9,10 @@ hidemeta: false
 UseHugoToc: true
 showToc: true
 TocOpen: false
+
+aliases:
+- /th/wreck-it-ralph-movie-lessons/
+
 cover:
     image: "/img/wreck-it-ralph-2.webp" # image path/url
     alt: "" # alt text
