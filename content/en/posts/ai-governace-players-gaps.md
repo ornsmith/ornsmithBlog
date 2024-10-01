@@ -3,6 +3,7 @@ title: "Navigating the AI Governance Landscape: The Players and the Missing Piec
 date: 2024-09-27
 # weight: 1
 # aliases: ["/first"]
+tags: ["AI", "AI Governance"]
 showToc: true
 TocOpen: true
 draft: false
