@@ -29,8 +29,7 @@ Projects ในปัจจุบัน
 
 ## ประสบการณ์การทำงาน
 - อดีต Co-Founder, Content Director และ Managing Partner ของ Content Shifu และ Magnetolabs
-- อดีต Brand Evangelist บริษัท จีเอเบิล จำกัด (www.g-able.com)
-- อดีตผู้ร่วมก่อตั้ง และ Content & Program Manager เว็บไซต์ The VIABLE (www.theviable.co)
+- อดีต Brand Evangelist บริษัท จีเอเบิล จำกัด (www.g-able.com) และอดีต Content & Program Manager เว็บไซต์ The VIABLE
 - อดีต Head of Content บริษัท เทคซอส มีเดีย จำ กัด (www.techsauce.co) ทีมรุ่นบุกเบิก ผู้สร้างสรรค์งาน Tech Conference ท่ีใหญที่สุดในเมืองไทย Techsauce Global Summit
 - อดีต Evangelist และ Business Development Executive บริษัท ชิปป๊อป จำกัด (www.shippop.com)
 
