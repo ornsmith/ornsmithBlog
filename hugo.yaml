@@ -147,7 +147,7 @@ menu:
       weight: 20
     - identifier: blog
       name: Blog
-      url: /posts/
+      url: /blog
       weight: 30
     - identifer: connect
       name: Let's Connect!

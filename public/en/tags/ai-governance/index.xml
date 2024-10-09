@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Governance on Orn Smith&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/ai-governance/</link>
+    <description>Recent content in AI Governance on Orn Smith&#39;s Blog</description>
+    <image>
+      <title>Orn Smith&#39;s Blog</title>
+      <url>http://localhost:1313/img/about-orn.jpg</url>
+      <link>http://localhost:1313/img/about-orn.jpg</link>
+    </image>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/ai-governance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating the AI Governance Landscape: The Players and the Missing Pieces</title>
+      <link>http://localhost:1313/en/posts/ai-governace-players-gaps/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/ai-governace-players-gaps/</guid>
+      <description>Over the past 5-6 months, I’ve been diving deep into the world of AI alignment and governance. Given my background as a go-to-market practitioner and my interest in advocacy, I’m particularly fascinated by how this field is becoming more accessible, especially within the private sector. This article is my wrap-up of the research I’ve done so far, along with some thoughts on where the gaps lie in the current AI governance landscape.</description>
+    </item>
+  </channel>
+</rss>

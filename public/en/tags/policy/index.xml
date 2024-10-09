@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Policy on Orn Smith&#39;s Blog</title>
+    <link>http://localhost:1313/en/tags/policy/</link>
+    <description>Recent content in Policy on Orn Smith&#39;s Blog</description>
+    <image>
+      <title>Orn Smith&#39;s Blog</title>
+      <url>http://localhost:1313/img/about-orn.jpg</url>
+      <link>http://localhost:1313/img/about-orn.jpg</link>
+    </image>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thailand&#39;s COVID-19 Vaccination Story: The Highs, the Lows, and What We Can Learn</title>
+      <link>http://localhost:1313/en/posts/thai-covid-vaccination-policy-analysis/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/thai-covid-vaccination-policy-analysis/</guid>
+      <description>This essay was originally written as part of my Behavioral Economics and Public Policy course. I have rewritten it to better suit a broader audience interested in the applications of behavioral economics.</description>
+    </item>
+  </channel>
+</rss>
