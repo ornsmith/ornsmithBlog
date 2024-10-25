@@ -10,13 +10,16 @@ draft: false
 ShowReadingTime: true
 ShowWordCount: true
 UseHugoToc: true
-#cover:
-#    image: "<image path/url>" # image path/url
-#    alt: "<alt text>" # alt text
-#    caption: "<text>" # display caption under cover
-#    relative: false # when using page bundles set this to true
-#    hidden: true # only hide on current single page
+cover:
+    image: "/img/ai-governance-players-blog-cover.png" # image path/url
+    alt: "AI Governance Vendors" # alt text
+    # caption: "<text>" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
 ---
+
+{{< figure align=center src="/img/ai-governance-players-blog-cover.png" >}}
+
 Over the past 5-6 months, I’ve been diving deep into the world of AI alignment and governance. Given my background as a go-to-market practitioner and my interest in advocacy, I’m particularly fascinated by how this field is becoming more accessible, especially within the private sector. This article is my wrap-up of the research I’ve done so far, along with some thoughts on where the gaps lie in the current AI governance landscape.
 
 If you’re short on time, here’s a quick summary:
