@@ -5,14 +5,19 @@ ShowShareButtons: false
 ShowBreadCrumbs: true
 ---
 
-A multifaceted professional at the intersection of policy analysis, strategic marketing, and technology.
-
-**_Open for new opportunities_:** in policy analysis and advocacy, or program management [see my policy-related projects] ***coming soon!***
+This page is still a work in progress. Meanwhile, you can visit my additional portfolio pages here:
+- [Education & Community Empowerment](https://ornsmith.notion.site/Oravee-s-Portfolio-in-Education-and-Community-Empowerment-314b10fc1a174e5db01d09f2f238039a?pvs=74)
+- [Responsible Technology & Policy](https://ornsmith.notion.site/Oravee-s-Portfolio-AI-ResponsibleTech-Policy-6a292d55355f46ac9110d72179864e67?pvs=74)
 
 ---
+
+I'm a multifaceted professional at the intersection of policy, marketing,technology and entrepreneurship.
+
+I recently completed a Master degree in Public Policy & Management at Carnegie Mellon University.
+
 Prior to that, I have 10 years of experience in the online content and marketing industries, as well as 7+ years as an entrepreneur, consultant and educator and have educated over 3,000 professionals.
 
-**_As a consultant, I currently offer these services_:**
+**Skills**
 - Product discovery and venture building [read more about them](/en/portfolio/product-venture)
 - Training, Workshops & Educational Design
 - Strategic Marketing and Consulting

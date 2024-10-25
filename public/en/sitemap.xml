@@ -128,5 +128,17 @@
                 hreflang="en-US"
                 href="http://localhost:1313/en/portfolio/overview/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/now/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="http://localhost:1313/th/now/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/now/"
+                />
   </url>
 </urlset>

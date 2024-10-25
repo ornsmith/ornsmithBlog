@@ -3,10 +3,10 @@ title: About Me
 hidemeta: true
 ---
 
+{{< figure align=center src="/img/pittsburgh-autumn-portrait.JPG" >}}
+
 ## Hello there! 👋 
 Glad to see you're interested in hearing more about me! This page is kinda long as I've tried to reflect on who I am and who I want to be.
-
-{{< figure align=center src="/img/about-orn.jpg" >}}
 
 ## Who am I?
 When I write online, I go by the pen name Orn Smith.
@@ -26,7 +26,8 @@ I'm proud of the impact I've made in several areas:
 - Supporting the Startup Ecosystem: I've been a player in nurturing the startup community, including helping launch the largest tech conference in Southeast Asia and have been actively involved in various events that promote entrepreneurship.
 
 ## My Superpowers
-- Bridge Builder: I'm well-rounded and love creating synergy across departments by bridging gaps between technical, creative, and business teams. My ability to speak multiple "languages" helps foster collaboration and innovation.
+{{< figure align=center src="/img/about-orn.jpg" >}}
+- Bridge Builder: I'm well-rounded and love creating synergy across departments by bridging gaps between technical, creative, and business teams. My background wearing multiple hats helps foster collaboration and innovation.
 - Creator and Nurturer: With an entrepreneurial spirit, I excel at creating something from nothing and nurturing it to flourish. This makes me naturally drawn to both entrepreneurial and intrapreneurial roles where I can build and grow initiatives.
 - Mindful Doer: I bring a unique blend of practicality and idealism to my work. As a practitioner with a vision, I'm able to execute tasks efficiently while keeping sight of larger goals and values.
 - Adaptive Presenter: I have a knack for making things unique for specific group of audience. I enjoy the process of customizing and tailoring solutions, whether it's a project, a strategy, or a team approach, to ensure the best possible outcome.

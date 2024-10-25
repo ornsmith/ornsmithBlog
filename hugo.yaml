@@ -72,18 +72,20 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # profile-mode
+  # profile-mode < current
   profileMode:
     enabled: true # needs to be explicitly set
     title: Orn Smith's Blog
     subtitle: "A Multidisciplinary Mind Reflecting on Life, Tech, Marketing, and Society.
-    Thinking Out Loud, One Blog Post at a Time, from the Streets of Bangkok 🇹🇭 to the Broader Stage.
+    Thinking Out Loud from the Streets of Bangkok 🇹🇭 to the Broader Stage.
     "
     imageUrl: "/img/orn-grad-crop.jpg/"
     imageWidth: 180
     imageHeight: 180
     # imageTitle: my image
     buttons:
+      - name: What am I up to now?
+        url: now
       - name: Posts
         url: posts
       - name: Tags
@@ -95,8 +97,8 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Orn Smith's Blog"
-    Content: "A Multidisciplinary Mind Reflecting on Life, Tech, Marketing, and Impact.
-    Thinking Out Loud, One Blog Post at a Time, from the Streets of Bangkok 🇹🇭 to the Broader Stage.
+    Content: "A Multidisciplinary Mind Reflecting on Life, Tech, Marketing, and Society.
+    Thinking Out Loud from the Streets of Bangkok 🇹🇭 to the Broader Stage.
     "
     imageUrl: "/img/about-orn.jpg/"
     imageWidth: 120

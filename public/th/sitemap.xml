@@ -203,6 +203,18 @@
                 href="http://localhost:1313/th/404/"
                 />
   </url><url>
+    <loc>http://localhost:1313/th/now/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/now/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="http://localhost:1313/th/now/"
+                />
+  </url><url>
     <loc>http://localhost:1313/th/blog/</loc>
     <xhtml:link
                 rel="alternate"
