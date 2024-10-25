@@ -25,5 +25,3 @@ Some of my clients:
 
 ***Want to explore more or see more details?*** Let's connect!
 
-{{< figure align=center src="/img/about-orn.jpg" >}}
-

@@ -3,8 +3,10 @@ title: About Me
 hidemeta: true
 ---
 
-## Hello there!
+## Hello there! 👋 
 Glad to see you're interested in hearing more about me! This page is kinda long as I've tried to reflect on who I am and who I want to be.
+
+{{< figure align=center src="/img/about-orn.jpg" >}}
 
 ## Who am I?
 When I write online, I go by the pen name Orn Smith.
@@ -36,6 +38,8 @@ Fun facts:
 - Before that, I used to be training Taekwondo, Judo, Muay Thai, and Brazilian Jiu-Jitsu.
 
 Fitness is my way of staying grounded, both mentally and physically.
+
+{{< figure align=center src="/img/deadlift.JPEG" >}}
 
 ## What Drives Me
 I believe in the power of human development —whether it’s individual or a larger group of community. From a shy, self-doubting individual, I’ve transformed into someone who thrives on solving complex problems. Along the way, I’ve learned to build both mental and physical strength. I attribute much of this growth to the supportive communities I’ve been part of, from my tech startup network to my fitness community. I’m always learning and sharing my knowledge, constantly striving for balance between productivity and clarity.
