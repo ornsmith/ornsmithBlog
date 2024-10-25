@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>th</language>
-    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/th/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Work in Progress</title>
+      <link>http://localhost:1313/th/posts/2024-comeback/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/posts/2024-comeback/</guid>
+      <description>ช่วงนี้กำลังทำอะไรหลายๆ อย่าง อ่านต่อตรงนี้ รวมถึงกำลังจะกลับมาเขียนบทความใหม่อีกครั้งในเร็วๆ นี้ ฝากรอติดตามนะคะ :)</description>
+    </item>
     <item>
       <title>จดหมายอำลาจาก อร, อดีต Content Shifu และบันทึกความทรงจำตลอด 6 ปีที่ผ่านมา</title>
       <link>http://localhost:1313/th/posts/contentshifu-goodbye-memories/</link>

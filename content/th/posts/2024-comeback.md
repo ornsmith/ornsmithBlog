@@ -1,14 +1,14 @@
 ---
 title: "Work in Progress"
-date: 2024-09-29
+date: 2024-10-21
 # weight: 1
 # aliases: ["/first"]
-draft: true
+draft: false
 hidemeta: false
 UseHugoToc: true
-showToc: true
-TocOpen: true
-
+showToc: false
+TocOpen: false
 ---
 
-เผื่อว่าคุณหลงเข้ามา
+ช่วงนี้กำลังทำอะไรหลายๆ อย่าง [อ่านต่อตรงนี้](th/now)
+รวมถึงกำลังจะกลับมาเขียนบทความใหม่อีกครั้งในเร็วๆ นี้ ฝากรอติดตามนะคะ :)
