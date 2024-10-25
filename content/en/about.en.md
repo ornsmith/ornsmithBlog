@@ -52,4 +52,10 @@ I believe in the power of human development —whether it’s individual or a la
 
 ## Let's Connect!
 Want to learn more about my journey and insights? I'd love to hear your thoughts and maybe even explore how we can collaborate to make a positive impact together.
+
+Connect with me at:
+- [LinkedIn](https://www.linkedin.com/in/ornsmith/)
+
+Contact: osmithip[at]alumni.cmu.edu
+
 Feel free to reach out – I'm always excited to connect with fellow innovators, learners, and change-makers!

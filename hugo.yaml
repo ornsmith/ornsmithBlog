@@ -76,7 +76,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Orn Smith's Blog
-    subtitle: "A Multidisciplinary Mind Reflecting on Life, Tech, Marketing, and Impact.
+    subtitle: "A Multidisciplinary Mind Reflecting on Life, Tech, Marketing, and Society.
     Thinking Out Loud, One Blog Post at a Time, from the Streets of Bangkok 🇹🇭 to the Broader Stage.
     "
     imageUrl: "/img/orn-grad-crop.jpg/"
@@ -137,22 +137,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifer: about
-      name: About Me
-      url: /about/
-      weight: 10
     - identifier: works
       name: Works
       url: /portfolio/overview
-      weight: 20
+      weight: 10
     - identifier: blog
       name: Blog
       url: /blog
+      weight: 20
+    - identifer: about
+      name: About
+      url: /about/
       weight: 30
-    - identifer: connect
-      name: Let's Connect!
-      url: /connect/
-      weight: 40
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

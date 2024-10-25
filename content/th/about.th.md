@@ -3,55 +3,57 @@ title: About Me
 hidemeta: true
 ---
 
-สวัสดีค่ะ! หวังว่าหน้านี้จะทำให้เรารู้จักกันเพิ่มขึ้นอีกนิด
-
-## Who am I?
-อรวี (อร) สมิทธิผล ผู้ใช้นามปากกา Orn Smith ในโลกการเขียนออนไลน์
-ชอบทำงานเขียน งานให้ความรู้ และการเป็นผู้ประกอบการสร้างสรรค์สิ่งใหม่ๆ
-เป็นคนเรียบร้อย พูดน้อย แต่ขับเคลื่อนด้วยแรงบันดาลใจที่ต้องการสร้างการเปลี่ยนแปลง
-
-(เวอร์ชันไทยเขียนใหม่จะตามมาเร็วๆ นี้ ขอยืมที่เขียนไว้จากหน้า eng ก่อนนะ)
+สวัสดีค่ะ 👋 
+เว็บไซต์นี้เป็นบล็อกส่วนตัวของ อร อรวี สมิทธิผล ผู้ใช้นามปากกา Orn Smith ในโลกการเขียนออนไลน์
+สนใจด้าน Entrepreneurship และเคยผ่านเส้นทางนี้มาก่อน ปัจจุบันสนใจเรื่อง Social Innovation เป็นพิเศษ
+ชอบเขียนและชอบทำงานให้ความรู้ โดยเฉพาะสาย Marketing เป็นงานที่ทำมามากที่สุดมาก่อน
 
 ## My Journey
-At 23, I took a leap of faith and founded my own company. Since then, I've been on an incredible journey of personal and professional growth.
+เรามีจุดเปลี่ยนในชีวิตครั้งใหญ่ อยู่ 2-3 ครั้ง
+ครั้งแรกคือ ตอนที่ตัดสินใจเข้าสู่วงการ Startup และ Entrepreneurship อย่างเต็มตัว เราได้ซึมซับแนวคิดดีๆ ที่น่าสนใจหลายอย่าง การได้เจอกับคนตัวเล็กที่ต้องการทำสิ่งที่ยิ่งใหญ่ เป็นเชื้อไฟสำหรับเราได้เสมอ
+ต่อมาจึงได้เริ่มต้นทำธุรกิจ ในวัย 23 โดยเป็นผู้ร่วมก่อตั้ง Content Shifu
+Vision ของเราตอนนั้นคือต้องการให้เป็นสื่อและแหล่งความรู้ที่มีคุณภาพ ที่ต้องการเปลี่ยน Mindset ของการทำการตลาด เท่านั้นไม่พอ เรายังตั้งใจมากๆ ที่จะมอบความรู้และเครื่องมือเพื่อให้เกิดการนำไปปฏิบัติจริงได้
 
-The media company I founded has reached and inspired over 7 million people, spreading knowledge and sparking change in the industry.
-
-But I'm not one to rest on my laurels – I'm always looking for the next challenge!
+จุดเปลี่ยนอีกครั้ง คือจุดที่ตัดสินใจออกจากบริษัทที่ตัวเองร่วมก่อตั้งมา เพื่อสร้างสรรค์และนำเสนอสิ่งใหม่ๆ ที่ส่งมอบคุณค่าอีกครั้ง ไม่ว่าจะเป็นการสร้างบริษัทใหม่อีกครั้ง หรือร่วมงานกับ Mission-driven organizations อื่นๆ (ปัจจุบันเรากำลังอยู่ในช่วงรอยต่อนี้)
 
 ## Making Waves
-I'm proud of the impact I've made in several areas:
-- Advocating for Value-based Marketing: I'm on a mission to educate marketers about meaningful, long-term strategies that benefit both businesses and consumers.
-- Empowering Content Writers: I've developed the nation's very first course in digital content writing in Thailand, creating job opportunities and raising the bar for quality content.
-- Supporting the Startup Ecosystem: I've been a player in nurturing the startup community, including helping launch the largest tech conference in Southeast Asia and have been actively involved in various events that promote entrepreneurship.
+ถ้าถามว่า ตั้งแต่เป็น Professional เต็มตัวมาประมาณ 10 ปี มีเรื่องไหนที่ภูมิใจที่สุด คงเป็นเรื่องเหล่านี้:
+- Supporting the Startup Ecosystem: เราเข้าสู่ Startup community ตอนช่วงปีพีคๆ ที่คนเริ่มพูดถึงมาก และ Ecosystem กำลังเติบโตอย่างก้าวกระโดด เราได้มีส่วนช่วย connect และบอกต่อ ผลงานดีๆ ของคนตัวเล็กๆ ที่ทำเรื่องใหญ่ๆ รวมถึงได้เป็นหนึ่งในทีมที่ launch งาน tech conference ที่ใหญ่ที่สุดใน Southeast Asia อย่าง Techsauce Global Summit
 
-## My Superpowers
-- Bridge Builder: I'm well-rounded and love creating synergy across departments by bridging gaps between technical, creative, and business teams. My ability to speak multiple "languages" helps foster collaboration and innovation.
-- Creator and Nurturer: With an entrepreneurial spirit, I excel at creating something from nothing and nurturing it to flourish. This makes me naturally drawn to both entrepreneurial and intrapreneurial roles where I can build and grow initiatives.
-- Mindful Doer: I bring a unique blend of practicality and idealism to my work. As a practitioner with a vision, I'm able to execute tasks efficiently while keeping sight of larger goals and values.
-- Individualizer: I have a knack for making things unique. I enjoy the process of customizing and tailoring solutions, whether it's a project, a strategy, or a team approach, to ensure the best possible outcome.
+- Advocating for Value-based Marketing: เราเชื่อในเรื่องการทำการตลาดแบบส่งมอบคุณค่า และการมี Mindset ที่คิดถึงผลแบบ Long-term ทั้งกับธุรกิจเอง ผู้บริโภค และสังคมในภาพใหญ่
+
+- Empowering Content Writers: เราพูดถึงความสำคัญของ Digital Content Writing เน้นย้ำกับทั้งแบรนด์ และสร้างคอร์สและเครื่องมือเพื่อสอนคนให้ทำเป็น เพื่อ Add value ให้กับสายอาชีพนักเขียน และสร้างงานให้อาชีพนี้
+
+รวมๆ แล้ว เรา dedicate ให้กับ missions เหล่านี้มา 6+ ปี สร้างความแข็งแกร่งด้าน Online authority และอื่นๆ ให้บริษัทที่เคยก่อตั้งมาตั้งแต่ต้นจนถึงอายุ 6 ปีเต็ม (2016-2022)
 
 ## Beyond Work
-I enjoy doing CrossFit, yoga and martial arts.
+เวลาว่างชอบออกกำลังกาย และอินมากถึงกับเคยสอบได้ใบประกาศ Certified Trainer มาแล้วในสมัยก่อน
+ชอบ CrossFit และศิลปะการป้องกันตัวเป็นพิเศษ และพยายามหาโอกาสเล่นโยคะอยู่เรื่อยๆ
 Fun facts:
-- I ranked 29th among female CrossFitters in Thailand during the 2022 CrossFit Open! That was a good old day! I may not be as competitive as I was then nowadays but exercise is still a big part of my routine.
-- Before that, I used to be training Taekwondo, Judo, Muay Thai, and Brazilian Jiu-Jitsu.
+- กีฬาแรกในชีวิตที่เล่นคือ เทควันโด จากนั้นก็เล่นยูโดจริงจังอยู่พักนึง ต่อด้วยมวยไทยบ้าง แบบขำๆ และลองจับ Brazilian Jiu-Jitsu ก่อนช่วงโควิด
+- เคยเล่นครอสฟิตจริงมากๆ ถึงขั้นไปเข้าแข่งรายการ Local ต่างๆ (แต่ปัจจุบันเล่นแบบขำๆ แล้ว ไม่ competitive เท่าเมื่อก่อน)
 
-Fitness is my way of staying grounded, both mentally and physically.
+"Fitness is my way of staying grounded, both mentally and physically."
 
-## What Drives Me
-I believe in the power of human development —whether it’s individual or a larger group of community. From a shy, self-doubting individual, I’ve transformed into someone who thrives on solving complex problems. Along the way, I’ve learned to build both mental and physical strength. I attribute much of this growth to the supportive communities I’ve been part of, from my tech startup network to my fitness community. I’m always learning and sharing my knowledge, constantly striving for balance between productivity and clarity.
+{{< figure align=center src="/img/deadlift.JPEG" >}}
 
-## Recognitions
+
+## Awards & Recognitions
 - Fellow, James R. Swartz Entrepreneurial Fellows Program (2022-2024)
 - Fulbright Scholar (2022-2024)
 - Finalist, Generative AI Innovation Challenge, Carnegie Mellon & Google (2024)
 - Runner-Up, Common Good Award, Hacking4Humanity Policy Hackathon (2023)
 - Finalist, MIT Policy Hackathon (2022)
 - Judge, ASEAN International Young Startup Contest (2022)
+- Co-author, Inbound Marketing: 50 เคล็ดวิชาการตลาดแบบแรงดึงดูด (2019)
 - Finalist, Asia-Pacific ICT Alliance Awards (2015)
+- Runner-up, Start it Up Awards (2015)
+- Semi-Final Round, AIS The Startup (2015)
 - Runner-Up, Thailand ICT Awards (2015)
 
-## Let's Connect!
-Want to learn more about my journey and insights? I'd love to hear your thoughts and maybe even explore how we can collaborate to make a positive impact together.
-Feel free to reach out – I'm always excited to connect with fellow innovators, learners, and change-makers!
+## รู้จักกันเพิ่มเติมได้ที่:
+- [Facebook](https://www.facebook.com/ornsmith/)
+- [LinkedIn](https://www.linkedin.com/in/ornsmith/)
+
+ช่องทางการติดต่อ
+อีเมล osmithip[at]alumni.cmu.edu

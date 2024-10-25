@@ -1,5 +1,5 @@
 ---
-title: "ทำไมการเรียน Design ถึงมีส่วนช่วยให้คุณเป็นผู้จัดการที่ดีขึ้น"
+title: "คัมแบ็กกับการเขียนบล็อก ตอนที่ 1: ทำไมถึงย้ายออกจาก WordPress"
 date: 2018-10-29
 # weight: 1
 # aliases: ["/first"]
@@ -16,3 +16,5 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
+
+บล็อกนี้เราร่างไว้ตั้งแต่ตอน
