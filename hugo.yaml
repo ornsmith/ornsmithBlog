@@ -76,7 +76,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Orn Smith's Blog
-    subtitle: "A Multidisciplinary Mind Reflecting on Life, Tech, Marketing, and Society.
+    subtitle: "Reflecting on Tech & AI, Marketing, Ethics, and Life Purpose.
     Thinking Out Loud from the Streets of Bangkok 🇹🇭 to the Broader Stage.
     "
     imageUrl: "/img/orn-grad-crop.jpg/"
