@@ -77,7 +77,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Orn Smith's Blog
     subtitle: "Reflecting on Tech & AI, Marketing, Ethics, and Life Purpose.
-    Thinking Out Loud from the Streets of Bangkok 🇹🇭 to the Broader Stage.
+Thinking Out Loud from the Streets of Bangkok 🇹🇭 to the Broader Stage.
     "
     imageUrl: "/img/orn-grad-crop.jpg/"
     imageWidth: 180

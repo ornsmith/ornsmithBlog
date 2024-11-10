@@ -5,14 +5,18 @@ hidemeta: true
 What am I up to now?
 
 ### Work & Projects
-- 💼 Open for work: exploring new opportunities particularly in the field of Responsible Technology and Responsible AI
-- 👩🏻‍🏫 Training and Seminar design projects for a few clients
-- 💡 Exploring some social innovation ideas
+- 💼 Open for job: currently exploring and looking for a new job opportunity particularly in the field of Responsible Technology and Responsible AI
+- 💼 Open for work: currently a consultant who can also recruit and manage teams on a company behalf
+My current and recent projects:
+-- Marketing strategy consulting for a FinTech company (project ending soon.)
+-- Content and SEO strategy and implementation for a software company.
+-- 👩🏻‍🏫 Guest lecturer, curriculum designer for a university.
+-- 🤝 Designing a critical thinking teaching tool.
 
 ### Learning / Mastering
-- 💻 ~~AI Alignment & AI Safety~~ (Just Completed)
-- 🤝 Participating: Academy of Changemakers Excellence
-- 📖 Taking course: Applied Behavioral Science Masterclass, More of AI
+- 💻 AI Alignment / AI Safety / Responsible AI (however you want to call it.)
+- 📖 Applied Behavioral Science Masterclass.
+- 💡 Exploring some social innovation ideas
 - 📚 Reading: ~~Psychology of Money, Gamification~~ (Just Completed)
 - 💻 Revamping this personal website!
 
