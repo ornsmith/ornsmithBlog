@@ -6,6 +6,7 @@ hidemeta: true
 ### Work & Projects
 - 💼 Open for job: currently exploring and looking for a new job opportunity particularly in the field of Responsible Technology and Responsible AI
 - 💼 Open for work: meanwhile, currently a consultant who can also recruit and manage teams on a company behalf
+
 My recent projects:
 -- Co-Project Management for [2025 YSEALI Regional Workshop, AI FutureMakers: Innovating for a better future](https://www.kenan-asia.org/2025-yseali-ai/)
 -- Marketing strategy consulting for a FinTech company (project ending soon.)
