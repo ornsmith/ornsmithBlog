@@ -32,6 +32,7 @@ ShowBreadCrumbs: true
 - อดีต Evangelist และ Business Development Executive บริษัท ชิปป๊อป จำกัด (www.shippop.com)
 
 ## ประสบการณ์ด้านการบรรยาย
+- อาจารย์รับเชิญ - สอน Digital Marketing เป็นภาษาอังกฤษ ให้กับโครงการ ASEAN Young Enterpreneurs in Agriculture ม. เทคโนโลยีสุรนารี
 - วิทยากร - BUILK ONE Group ในหัวข้อ Inbound Marketing (2024)
 - วิทยากร - Customer Acquisition วิทยาลัยการจัดการ มหาวิทยาลัยมหิดล
 - วิทยากร - AIS D.C. ในหัวข้อ Storytelling v.s Storydoing
