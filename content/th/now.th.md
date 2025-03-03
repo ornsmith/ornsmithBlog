@@ -2,31 +2,24 @@
 title: ช่วงนี้ทำอะไรอยู่
 hidemeta: true
 ---
-What am I up to now?
 
-### Work & Projects
-- 💼 Open for job: currently exploring and looking for a new job opportunity particularly in the field of Responsible Technology and Responsible AI
-- 💼 Open for work: meanwhile, currently a consultant who can also recruit and manage teams on a company behalf
-My recent projects:
--- Co-Project Management for [2025 YSEALI Regional Workshop, AI FutureMakers: Innovating for a better future](https://www.kenan-asia.org/2025-yseali-ai/)
--- Marketing strategy consulting for a FinTech company (project ending soon.)
--- Content and SEO strategy and implementation for a software company.
--- 👩🏻‍🏫 Guest lecturer and curriculum designer in marketing and AI for a university.
--- 🤝 Designing a critical thinking teaching tool.
+ช่วงนี้กำลังสนุกกับการทำงาน เรียน และเล่น หลายอย่าง
 
-### Learning / Mastering
-- 💻 AI Alignment / AI Safety / Responsible AI (however you want to call it.)
-- 📖 Applied Behavioral Science
-- 💡 Exploring some social innovation ideas
-- 📚 Reading: ~~Psychology of Money, Gamification~~ (Just Completed)
-- 💻 Revamping this personal website!
+### 💼 Work & Projects
+- งานประจำ เพิ่งเริ่มงานกับ SCB 10X ชื่อตำแหน่งว่า Developer Relations Manager หรือถ้าให้เราตั้งชื่อเอง ก็อยากจะขอเรียกว่า LLM Evangelist หน้าที่คือการสร้าง Community ของนักพัฒนาให้มาสนใจใช้ LLM โดยเฉพาะ Open-source model [Typhoon](https://opentyphoon.ai) ที่บริษัทพัฒนาขึ้นมา
+เรามองว่านี่เป็น Initiative ที่ดี และอยากผลักดันมันต่อ เพราะเป็น movement สำคัญที่การสร้างสังคมนักพัฒนา ให้ไทยเรามีความสามารถมากกว่าการเป็นผู้ใช้เพียงอย่างเดียว
 
-### Health
-- 🏃🏻‍♀️ Training my mom 2-3 times a week
-- 🎚️ Goal: to lose 2-3 kg of fat -- I gained a lot when I was in the US ^^""
+- เป็นที่ปรึกษาและวิทยากรด้าน Behavioral Science (ศาสตร์แห่งพฤติกรรม) ร่วมกับ Make it Lab
 
-### Excitement
-- 🗻🏂🏻 Japan trip in Winter - my 2nd snowboard season!
+- ช่วงที่ผ่านมา ก่อนจะรับตำแหน่งงานประจำนี้ มีทำงานเป็นที่ปรึกษาและวิทยากรให้กับหลากหลายหน่วยงานและมหาวิทยาลัย ได้แก่ หัวข้อ Inbound Marketing และ Responsible AI
 
+
+### Health & Fitness
+- 🏋🏻‍♀️ ยังคงเล่นครอสฟิตอยู่เหมือนเดิม เพิ่มเติมคือช่วงนี้เล่น CrossFit Open และหลังจากนี้คงตั้งใจจะพัฒนาให้เข้าเป้ามากยิ่งขึ้น มีเป้าหมายที่ยังไปไม่ถึงหลายอย่าง เขียนเท่าไหร่ก็คงไม่หมด
+- 🎾 เรียนตีเทนนิสอยู่
+
+### 🧠 Learning
+- แน่นอนว่าเรียนสิ่งที่เกี่ยวข้องกับงานอยู่ เพราะก็มีให้เรียนเยอะมากแล้ว
+- สิ่งที่ไม่เกี่ยวกับงาน...นอกจากเทนนิส..ล่าสุดเรียนทำกาแฟดริปพื้นฐานไป เพราะชอบกิน Speciality coffee มาก แต่ก็ยังไม่ค่อยได้ทำเองบ่อยเท่าไหร่ ซื้อบ่อยกว่าอยู่ดี แหะๆ
 
 

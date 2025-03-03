@@ -3,17 +3,23 @@ title: What am I up to now?
 hidemeta: true
 ---
 
-### Work & Projects
-- 💼 (Starting in March) Strategic Adoption & Developer Relations Manager, AI and Open Source
+These days, I’m thoroughly enjoying juggling work, studies, and playtime.
 
-My recent projects:
--- Co-Project Management for [2025 YSEALI Regional Workshop, AI FutureMakers: Innovating for a better future](https://www.kenan-asia.org/2025-yseali-ai/)
+## 💼 Work & Projects
+**Full-time role**: I’ve recently started working at SCB 10X as a Developer Relations Manager — or as I like to call it, LLM Evangelist. My mission? To cultivate a developer community around Large Language Models (LLMs), particularly our open-source model [Typhoon](https://opentyphoon.ai), developed by our team.
 
-### Learning / Mastering
-- 💻 Revamping this personal website!
+I see this as a pivotal initiative worth championing. It’s not just about tech — it’s a movement to empower Thai developers to go beyond being "users" and become active contributors, accelerating Thailand’s journey toward AI sovereignty.
 
-### Health
-- 🏃🏻‍♀️ Training my mom 2-3 times a week
-- 🎚️ Goal: to lose 2-3 kg of fat -- I gained a lot when I was in the US ^^""
+**Consulting & Instruction**: Partnering with Make it Lab as a Behavioral Science consultant and instructor to explore how organizations can utilize the science of human behavior to better engage with their users and achieve their goals.
 
+Previous freelance work: Before diving into this full-time role, I advised and taught courses for various organizations and universities, focusing on Inbound Marketing and Responsible AI.
 
+## Health & Fitness
+🏋🏻‍♀️ Still hitting CrossFit regularly! Recently competed in the CrossFit Open and determined to push my limits further this year. Too many goals to list here…
+
+🎾 Taking tennis lessons (just hope to enjoy games with friends).
+
+## 🧠 Learning
+Work-related focus: Diving deep into LLM frameworks and developer tools (as you’d expect).
+
+Non-work passions: Beyond tennis? Recently learned the basics of specialty coffee brewing (obsessed with drip coffee!). But let’s be real — I still buy way more than I make. 😅
