@@ -5,10 +5,11 @@ date: 2026-03-24
 # aliases: ["/first"]
 draft: false
 hidemeta: false
-essayStyle: true
 UseHugoToc: true
 showToc: true
 TocOpen: true
+ShowReadingTime: true
+ShowWordCount: true
 cover:
     image: "/img/ai-presentation-cover-blog.png" # image path/url
     alt: "" # alt text
