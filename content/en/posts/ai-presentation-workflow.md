@@ -51,8 +51,6 @@ That’s where it breaks.
 
 I ran into the same problem so I changed how I use AI for presentations. This workflow now saves me hours every week, and more importantly, the output actually feels like mine.
 
----
-
 ## Is there a better way?
 
 My work involves presentations, reports, and notes regularly. I wanted to spend more time thinking clearly and less time fighting formatting, so I changed my pipeline. It worked well enough that I was asked to run a training for SCB 10X and SCBX R&D this month.
@@ -64,8 +62,6 @@ The shift is not about which tools to use. It is about separating three things m
 Separate those layers and everything gets easier. Not just for slides, but for any kind of knowledge work: strategy reports, newsletters, research documents.
 
 Presentations are where most people feel the pain first, so that is where we will start.
-
----
 
 ## The Problem with AI Slide Tools
 
@@ -79,9 +75,8 @@ AI slide tools don’t format your ideas. They replace them. You get back someth
 
 Content is the brain. I’m not lending mine out.
 
-{{< figure align=center src="/img/ai-presentation-quote-alt-c-q2.png" >}}
+{{< figure align=center src="/img/ai-presentation-quote-alt-b-q2.png" >}}
 
----
 
 ## The 3-Layer Workflow I Use (Step-by-Step)
 
@@ -230,8 +225,6 @@ For everyone else: tools like Claude Cowork and Manus Computer provide the simil
 
 {{< figure align=center src="/img/ai-presentation-folder-tree.png" >}}
 
----
-
 ## What Changes When You Think in Systems
 
 The time allocation shifts. Not just the total time, but where the time goes.
@@ -261,7 +254,6 @@ The tools for non-technical users now exist. What takes me a terminal command ta
 
 The constraint is not skill. It is the habit of separating what you want to say from how it looks.
 
----
 
 ## This Is What "Running AI as a System" Looks Like
 
