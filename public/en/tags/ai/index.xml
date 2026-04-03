@@ -2,23 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI on Orn Smith&#39;s Blog</title>
-    <link>http://localhost:1313/en/tags/ai/</link>
+    <link>https://ornsmith.com/en/tags/ai/</link>
     <description>Recent content in AI on Orn Smith&#39;s Blog</description>
     <image>
       <title>Orn Smith&#39;s Blog</title>
-      <url>http://localhost:1313/img/about-orn.jpg</url>
-      <link>http://localhost:1313/img/about-orn.jpg</link>
+      <url>https://ornsmith.com/img/about-orn.jpg</url>
+      <link>https://ornsmith.com/img/about-orn.jpg</link>
     </image>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.159.2</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ornsmith.com/en/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Rise of AI Power Users: From Prompting to Orchestrating</title>
+      <link>https://ornsmith.com/en/posts/rise-of-ai-power-users/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ornsmith.com/en/posts/rise-of-ai-power-users/</guid>
+      <description>&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://ornsmith.com/img/the-great-rewrite-bangkok-cover.jpg#center&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;em&gt;How the best AI users are graduating from chat interfaces to programmatic systems and why you don&amp;rsquo;t need to be a developer to join them&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This expands on my talk at The Great Rewrite in Bangkok. In a 20-minute fireside chat I didn&amp;rsquo;t have room for the frameworks and examples so this article is the follow-up.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Earlier this month at The Great Rewrite in Bangkok, I asked a room full of AI professionals: &amp;ldquo;How many of you use AI daily?&amp;rdquo;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Navigating the AI Governance Landscape: The Players and the Missing Pieces</title>
-      <link>http://localhost:1313/en/posts/ai-governace-players-gaps/</link>
+      <link>https://ornsmith.com/en/posts/ai-governace-players-gaps/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/ai-governace-players-gaps/</guid>
-      <description>Over the past 5-6 months, I’ve been diving deep into the world of AI alignment and governance. Given my background as a go-to-market practitioner and my interest in advocacy, I’m particularly fascinated by how this field is becoming more accessible, especially within the private sector. This article is my wrap-up of the research I’ve done so far, along with some thoughts on where the gaps lie in the current AI governance landscape.</description>
+      <guid>https://ornsmith.com/en/posts/ai-governace-players-gaps/</guid>
+      <description>&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://ornsmith.com/img/ai-governance-players-blog-cover.png#center&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Over the past 5-6 months, I’ve been diving deep into the world of AI alignment and governance. Given my background as a go-to-market practitioner and my interest in advocacy, I’m particularly fascinated by how this field is becoming more accessible, especially within the private sector. This article is my wrap-up of the research I’ve done so far, along with some thoughts on where the gaps lie in the current AI governance landscape.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

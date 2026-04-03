@@ -2,143 +2,146 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/tags/ai/</loc>
-    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/ai-governance/</loc>
-    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/posts/ai-governace-players-gaps/</loc>
-    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+    <loc>https://ornsmith.com/en/posts/ai-presentation-workflow/</loc>
+    <lastmod>2026-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/"
+                href="https://ornsmith.com/th/posts/ai-presentation-workflow/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/"
+                href="https://ornsmith.com/en/posts/ai-presentation-workflow/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+    <loc>https://ornsmith.com/en/</loc>
+    <lastmod>2026-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/posts/"
+                href="https://ornsmith.com/th/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/"
+                href="https://ornsmith.com/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+    <loc>https://ornsmith.com/en/tags/ai/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ornsmith.com/en/tags/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/tags/"
+                href="https://ornsmith.com/th/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/tags/"
+                href="https://ornsmith.com/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/welcome/</loc>
+    <loc>https://ornsmith.com/en/posts/rise-of-ai-power-users/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ornsmith.com/en/tags/ai-governance/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ornsmith.com/en/posts/ai-governace-players-gaps/</loc>
+    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ornsmith.com/en/posts/welcome/</loc>
     <lastmod>2024-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/connect/</loc>
+    <loc>https://ornsmith.com/en/connect/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/connect/"
+                href="https://ornsmith.com/th/connect/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/connect/"
+                href="https://ornsmith.com/en/connect/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/about/</loc>
+    <loc>https://ornsmith.com/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/about/"
+                href="https://ornsmith.com/th/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/about/"
+                href="https://ornsmith.com/en/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/</loc>
+    <loc>https://ornsmith.com/en/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/blog/"
+                href="https://ornsmith.com/th/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/blog/"
+                href="https://ornsmith.com/en/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://ornsmith.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/categories/"
+                href="https://ornsmith.com/th/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/categories/"
+                href="https://ornsmith.com/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/portfolio/training-marketing/</loc>
+    <loc>https://ornsmith.com/en/portfolio/training-marketing/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/portfolio/</loc>
+    <loc>https://ornsmith.com/en/portfolio/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/portfolio/"
+                href="https://ornsmith.com/th/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/portfolio/"
+                href="https://ornsmith.com/en/portfolio/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/portfolio/product-venture/</loc>
+    <loc>https://ornsmith.com/en/portfolio/product-venture/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/portfolio/overview/</loc>
+    <loc>https://ornsmith.com/en/portfolio/overview/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/portfolio/overview/"
+                href="https://ornsmith.com/th/portfolio/overview/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/portfolio/overview/"
+                href="https://ornsmith.com/en/portfolio/overview/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/now/</loc>
+    <loc>https://ornsmith.com/en/now/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/now/"
+                href="https://ornsmith.com/th/now/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/now/"
+                href="https://ornsmith.com/en/now/"
                 />
   </url>
 </urlset>

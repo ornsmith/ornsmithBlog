@@ -2,231 +2,224 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/th/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <loc>https://ornsmith.com/th/posts/ai-presentation-workflow/</loc>
+    <lastmod>2026-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/"
+                href="https://ornsmith.com/en/posts/ai-presentation-workflow/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/"
+                href="https://ornsmith.com/th/posts/ai-presentation-workflow/"
                 />
   </url><url>
-    <loc>http://localhost:1313/th/posts/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <loc>https://ornsmith.com/th/</loc>
+    <lastmod>2026-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/"
+                href="https://ornsmith.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/posts/"
+                href="https://ornsmith.com/th/"
                 />
   </url><url>
-    <loc>http://localhost:1313/th/tags/business/</loc>
+    <loc>https://ornsmith.com/th/posts/</loc>
+    <lastmod>2026-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ornsmith.com/th/tags/business/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/tags/entrepreneurship/</loc>
+    <loc>https://ornsmith.com/th/tags/entrepreneurship/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/tags/memories/</loc>
+    <loc>https://ornsmith.com/th/tags/memories/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/tags/</loc>
+    <loc>https://ornsmith.com/th/tags/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/tags/"
+                href="https://ornsmith.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/tags/"
+                href="https://ornsmith.com/th/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/th/posts/contentshifu-goodbye-memories/</loc>
+    <loc>https://ornsmith.com/th/posts/contentshifu-goodbye-memories/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/tags/books/</loc>
+    <loc>https://ornsmith.com/th/tags/books/</loc>
     <lastmod>2021-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/newpower-book-case-study/</loc>
+    <loc>https://ornsmith.com/th/posts/newpower-book-case-study/</loc>
     <lastmod>2021-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/tags/education/</loc>
+    <loc>https://ornsmith.com/th/tags/education/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/google-certified-educator-review/</loc>
+    <loc>https://ornsmith.com/th/posts/google-certified-educator-review/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/tags/marketing/</loc>
+    <loc>https://ornsmith.com/th/tags/marketing/</loc>
     <lastmod>2019-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/inbound-marketing-book/</loc>
+    <loc>https://ornsmith.com/th/posts/inbound-marketing-book/</loc>
     <lastmod>2019-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/wreck-it-ralph-movie-lessons/</loc>
+    <loc>https://ornsmith.com/th/posts/wreck-it-ralph-movie-lessons/</loc>
     <lastmod>2018-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/tags/film/</loc>
+    <loc>https://ornsmith.com/th/tags/film/</loc>
     <lastmod>2018-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/tags/life/</loc>
+    <loc>https://ornsmith.com/th/tags/life/</loc>
     <lastmod>2018-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/tags/community/</loc>
+    <loc>https://ornsmith.com/th/tags/community/</loc>
     <lastmod>2018-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/online-community-building-jeban/</loc>
+    <loc>https://ornsmith.com/th/posts/online-community-building-jeban/</loc>
     <lastmod>2018-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/quarter-life-crisis/</loc>
+    <loc>https://ornsmith.com/th/posts/quarter-life-crisis/</loc>
     <lastmod>2018-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/tags/design/</loc>
+    <loc>https://ornsmith.com/th/tags/design/</loc>
     <lastmod>2018-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/tags/management/</loc>
+    <loc>https://ornsmith.com/th/tags/management/</loc>
     <lastmod>2018-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/why-design-helps-you-be-better-manager/</loc>
+    <loc>https://ornsmith.com/th/posts/why-design-helps-you-be-better-manager/</loc>
     <lastmod>2018-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/post-ywc-review/</loc>
+    <loc>https://ornsmith.com/th/posts/post-ywc-review/</loc>
     <lastmod>2018-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/bye-bye-microsoft-paint/</loc>
+    <loc>https://ornsmith.com/th/posts/bye-bye-microsoft-paint/</loc>
     <lastmod>2017-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/crisis-when-creative-marketer-dont-understand-technology/</loc>
+    <loc>https://ornsmith.com/th/posts/crisis-when-creative-marketer-dont-understand-technology/</loc>
     <lastmod>2016-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/english-pitching-problem-among-thai-startups/</loc>
+    <loc>https://ornsmith.com/th/posts/english-pitching-problem-among-thai-startups/</loc>
     <lastmod>2016-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/belongership-is-the-new-challenge/</loc>
+    <loc>https://ornsmith.com/th/posts/belongership-is-the-new-challenge/</loc>
     <lastmod>2016-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/36-questions-bring-love-experience-sharing/</loc>
+    <loc>https://ornsmith.com/th/posts/36-questions-bring-love-experience-sharing/</loc>
     <lastmod>2016-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/whiteboard-meeting-is-cool/</loc>
+    <loc>https://ornsmith.com/th/posts/whiteboard-meeting-is-cool/</loc>
     <lastmod>2016-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/chinese-new-year-adult/</loc>
+    <loc>https://ornsmith.com/th/posts/chinese-new-year-adult/</loc>
     <lastmod>2016-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/15-memories-of-2015/</loc>
+    <loc>https://ornsmith.com/th/posts/15-memories-of-2015/</loc>
     <lastmod>2015-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/jumc-review/</loc>
+    <loc>https://ornsmith.com/th/posts/jumc-review/</loc>
     <lastmod>2015-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/posts/ice-bucket-challenge-analysis/</loc>
+    <loc>https://ornsmith.com/th/posts/ice-bucket-challenge-analysis/</loc>
     <lastmod>2014-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/th/connect/</loc>
+    <loc>https://ornsmith.com/th/connect/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/connect/"
+                href="https://ornsmith.com/en/connect/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/connect/"
+                href="https://ornsmith.com/th/connect/"
                 />
   </url><url>
-    <loc>http://localhost:1313/th/posts/year-in-review-2024/</loc>
+    <loc>https://ornsmith.com/th/posts/year-in-review-2024/</loc>
   </url><url>
-    <loc>http://localhost:1313/th/about/</loc>
+    <loc>https://ornsmith.com/th/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/about/"
+                href="https://ornsmith.com/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/about/"
+                href="https://ornsmith.com/th/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/th/categories/</loc>
+    <loc>https://ornsmith.com/th/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/categories/"
+                href="https://ornsmith.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/categories/"
+                href="https://ornsmith.com/th/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/th/portfolio/</loc>
+    <loc>https://ornsmith.com/th/portfolio/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/portfolio/"
+                href="https://ornsmith.com/en/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/portfolio/"
+                href="https://ornsmith.com/th/portfolio/"
                 />
   </url><url>
-    <loc>http://localhost:1313/th/portfolio/overview/</loc>
+    <loc>https://ornsmith.com/th/portfolio/overview/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/portfolio/overview/"
+                href="https://ornsmith.com/en/portfolio/overview/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/portfolio/overview/"
+                href="https://ornsmith.com/th/portfolio/overview/"
                 />
   </url><url>
-    <loc>http://localhost:1313/th/404/</loc>
+    <loc>https://ornsmith.com/th/404/</loc>
+  </url><url>
+    <loc>https://ornsmith.com/th/now/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/404.html"
+                href="https://ornsmith.com/en/now/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/404/"
+                href="https://ornsmith.com/th/now/"
                 />
   </url><url>
-    <loc>http://localhost:1313/th/now/</loc>
+    <loc>https://ornsmith.com/th/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/now/"
+                href="https://ornsmith.com/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="th"
-                href="http://localhost:1313/th/now/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/th/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="th"
-                href="http://localhost:1313/th/blog/"
+                href="https://ornsmith.com/th/blog/"
                 />
   </url>
 </urlset>

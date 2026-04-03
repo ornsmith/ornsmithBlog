@@ -2,43 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Portfolios on Orn Smith&#39;s Blog</title>
-    <link>http://localhost:1313/en/portfolio/</link>
+    <link>https://ornsmith.com/en/portfolio/</link>
     <description>Recent content in Portfolios on Orn Smith&#39;s Blog</description>
     <image>
       <title>Orn Smith&#39;s Blog</title>
-      <url>http://localhost:1313/img/about-orn.jpg</url>
-      <link>http://localhost:1313/img/about-orn.jpg</link>
+      <url>https://ornsmith.com/img/about-orn.jpg</url>
+      <link>https://ornsmith.com/img/about-orn.jpg</link>
     </image>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.159.2</generator>
     <language>en-US</language>
-    <atom:link href="http://localhost:1313/en/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ornsmith.com/en/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marketing &amp; Training</title>
-      <link>http://localhost:1313/en/portfolio/training-marketing/</link>
+      <link>https://ornsmith.com/en/portfolio/training-marketing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/portfolio/training-marketing/</guid>
-      <description>I&amp;rsquo;m passionate in educational design, capacity building and helping individuals and organizations grow. My specialization is in Inbound Marketing and related fields.
-Inbound Marketing (Digital Marketing Strategy)
-Inbound Marketing is a set of proven marketing strategies that brings together branding, content marketing, first-party data collection, and marketing technology. It’s been a secret sauce of how I acquired and retain customers of my businesses, as well as providing the service to my clients.</description>
+      <guid>https://ornsmith.com/en/portfolio/training-marketing/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m passionate in educational design, capacity building and helping individuals and organizations grow. My specialization is in Inbound Marketing and related fields.&lt;/p&gt;
+&lt;p&gt;Inbound Marketing (Digital Marketing Strategy)&lt;/p&gt;
+&lt;p&gt;Inbound Marketing is a set of proven marketing strategies that brings together branding, content marketing, first-party data collection, and marketing technology. It’s been a secret sauce of how I acquired and retain customers of my businesses, as well as providing the service to my clients. I’ve been one of the key leader and evangelist of this strategy in Thailand (as displayed in my teaching and publications).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Venture Building</title>
-      <link>http://localhost:1313/en/portfolio/product-venture/</link>
+      <link>https://ornsmith.com/en/portfolio/product-venture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/portfolio/product-venture/</guid>
-      <description>As a seasoned entrepreneur, I&amp;rsquo;ve played a pivotal role in the founding and growth of several successful ventures across diverse industries. My portfolio includes experiences in media &amp;amp; publication, education, digital marketing services, and e-commerce products.
-One of my most notable accomplishments is the development of &amp;ldquo;Content Shifu,&amp;rdquo; a leading digital marketing media, education, and ecosystem builder. From its inception, I spearheaded its growth into a thriving company that has established a strong presence in the market.</description>
+      <guid>https://ornsmith.com/en/portfolio/product-venture/</guid>
+      <description>&lt;p&gt;As a seasoned entrepreneur, I&amp;rsquo;ve played a pivotal role in the founding and growth of several successful ventures across diverse industries. My portfolio includes experiences in media &amp;amp; publication, education, digital marketing services, and e-commerce products.&lt;/p&gt;
+&lt;p&gt;One of my most notable accomplishments is the development of &amp;ldquo;Content Shifu,&amp;rdquo; a leading digital marketing media, education, and ecosystem builder. From its inception, I spearheaded its growth into a thriving company that has established a strong presence in the market.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to My Portfolio</title>
-      <link>http://localhost:1313/en/portfolio/overview/</link>
+      <link>https://ornsmith.com/en/portfolio/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/portfolio/overview/</guid>
-      <description>A passionate professional with experience at the intersection of entrepreneurship, marketing, education and social innovation.
-I recently completed a Master degree in Public Policy &amp;amp; Management at Carnegie Mellon University.
-Prior to that, I have 10 years of experience in the online content and marketing industries, as well as 7+ years as an entrepreneur, consultant and educator and have educated over 3,000 professionals.
-Skills and Experience
-Product discovery and venture building read more about them Strategic Marketing and Consulting Event &amp;amp; media relations Education &amp;amp; Community Empowerment Responsible Technology &amp;amp; Policy This page is still a work in progress Want to explore more or see more details?</description>
+      <guid>https://ornsmith.com/en/portfolio/overview/</guid>
+      <description>&lt;p&gt;A passionate professional with experience at the intersection of entrepreneurship, marketing, education and social innovation.&lt;/p&gt;
+&lt;p&gt;I recently completed a Master degree in Public Policy &amp;amp; Management at Carnegie Mellon University.&lt;/p&gt;
+&lt;p&gt;Prior to that, I have 10 years of experience in the online content and marketing industries, as well as 7+ years as an entrepreneur, consultant and educator and have educated over 3,000 professionals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Skills and Experience&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Product discovery and venture building &lt;a href=&#34;https://ornsmith.com/en/portfolio/product-venture&#34;&gt;read more about them&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Strategic Marketing and Consulting&lt;/li&gt;
+&lt;li&gt;Event &amp;amp; media relations&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ornsmith.notion.site/Oravee-s-Portfolio-in-Education-and-Community-Empowerment-314b10fc1a174e5db01d09f2f238039a?pvs=74&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Education &amp;amp; Community Empowerment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ornsmith.notion.site/Oravee-s-Portfolio-AI-ResponsibleTech-Policy-6a292d55355f46ac9110d72179864e67?pvs=74&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Responsible Technology &amp;amp; Policy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;This page is still a work in progress&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Want to explore more or see more details?&lt;/strong&gt;&lt;/em&gt; Let&amp;rsquo;s connect!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

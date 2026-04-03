@@ -2,26 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Education on Orn Smith&#39;s Blog</title>
-    <link>http://localhost:1313/th/tags/education/</link>
+    <link>https://ornsmith.com/th/tags/education/</link>
     <description>Recent content in Education on Orn Smith&#39;s Blog</description>
     <image>
       <title>Orn Smith&#39;s Blog</title>
-      <url>http://localhost:1313/img/about-orn.jpg</url>
-      <link>http://localhost:1313/img/about-orn.jpg</link>
+      <url>https://ornsmith.com/img/about-orn.jpg</url>
+      <link>https://ornsmith.com/img/about-orn.jpg</link>
     </image>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.159.2</generator>
     <language>th</language>
     <lastBuildDate>Sat, 11 Apr 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/th/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ornsmith.com/th/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>รีวิวประสบการณ์การสอบ Google Certified Educator</title>
-      <link>http://localhost:1313/th/posts/google-certified-educator-review/</link>
+      <link>https://ornsmith.com/th/posts/google-certified-educator-review/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/th/posts/google-certified-educator-review/</guid>
-      <description>บทความนี้น่าจะเหมาะกับคนที่สนใจสายการศึกษา เพราะจะมารีวิวเกี่ยวกับการสอบ Certificate ตัวหนึ่งของ Google ชื่อว่า Google Certified Educator ที่อรเพิ่งได้สอบมา สำหรับคนในทำงานในวงการการศึกษา และมีการใช้ Digital tools ในการเรียนการสอน ตัว Certificate นี้ก็เป็นอีกตัวหนึ่งที่ไปลองสอบกันได้ค่ะ
-Google Certified Educator คืออะไร Google Certified Educator นี้ ถ้าให้อรแปลเป็นภาษาไทย คงแปลว่า บุคคลที่ทาง Google รับรองว่ามีความเข้าใจและสามารถใช้ Digital tools เพื่อเอามาประยุกต์ใช้กับการเรียนการสอนได้เป็นอย่างดี ซึ่ง Digital tools ในที่นี้ตอนทำการสอบเขาก็จะเน้น Tools ของ Google เองนี่แหละค่ะ อย่างที่ทราบกันดีว่าโปรดักส์ของ Google สามารถนำไปประยุกต์ใช้ได้หลากหลาย ซึ่งก็ไม่เว้นกับวงการการศึกษา ทาง Google ก็เลยมีนำเสนอโปรดักส์ของตัวเอง มัดรวมเป็น Solutions เพื่อการศึกษาโดยเฉพาะ เรียกว่า Google for Education
-ประโยชน์ของ Google Certified Educator บอกตามตรงว่าถ้าเป็น Certificate ตัว Educator นี้ อรคิดว่าตัวประโยชน์มันก็ยังไม่ได้เด่นชัดซักเท่าไรค่ะ ฮ่า หลักๆ แล้วมีไว้เพื่อเป็นหลักฐานในการแสดงออกถึงความรู้ความเข้าใจเฉยๆ
-แต่มันจะมีตัว Certification ของ Google ที่มี Benefits ออกมาให้เห็นชัดมากกว่า เป็นตัวที่เป็น Next step ต่อจากตัวนี้ เรียกว่า Google Certified Trainer กับ Google Certified Innovator ค่ะ Cert เหล่านี้เป็นบุคคลที่สามารถเป็น Trainer ให้กับเหล่า Educator อีกทีได้ (อาจารย์ของอาจารย์ว่างั้น) ซึ่งก่อนจะสอบ Cert เหล่านี้ได้ Requirements พื้นฐานคือเราต้องมี Google Certified Educator ก่อนนั่นเองค่ะ</description>
+      <guid>https://ornsmith.com/th/posts/google-certified-educator-review/</guid>
+      <description>&lt;p&gt;บทความนี้น่าจะเหมาะกับคนที่สนใจสายการศึกษา เพราะจะมารีวิวเกี่ยวกับการสอบ Certificate ตัวหนึ่งของ Google ชื่อว่า Google Certified Educator ที่อรเพิ่งได้สอบมา สำหรับคนในทำงานในวงการการศึกษา และมีการใช้ Digital tools ในการเรียนการสอน ตัว Certificate นี้ก็เป็นอีกตัวหนึ่งที่ไปลองสอบกันได้ค่ะ&lt;/p&gt;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://ornsmith.com/img/google-certified-educator-lv1.png#center&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;google-certified-educator-คออะไร&#34;&gt;Google Certified Educator คืออะไร&lt;/h2&gt;
+&lt;p&gt;Google Certified Educator นี้ ถ้าให้อรแปลเป็นภาษาไทย คงแปลว่า บุคคลที่ทาง Google รับรองว่ามีความเข้าใจและสามารถใช้ Digital tools เพื่อเอามาประยุกต์ใช้กับการเรียนการสอนได้เป็นอย่างดี ซึ่ง Digital tools ในที่นี้ตอนทำการสอบเขาก็จะเน้น Tools ของ Google เองนี่แหละค่ะ อย่างที่ทราบกันดีว่าโปรดักส์ของ Google สามารถนำไปประยุกต์ใช้ได้หลากหลาย ซึ่งก็ไม่เว้นกับวงการการศึกษา ทาง Google ก็เลยมีนำเสนอโปรดักส์ของตัวเอง มัดรวมเป็น Solutions เพื่อการศึกษาโดยเฉพาะ เรียกว่า Google for Education&lt;/p&gt;
+&lt;h2 id=&#34;ประโยชนของ-google-certified-educator&#34;&gt;ประโยชน์ของ Google Certified Educator&lt;/h2&gt;
+&lt;p&gt;บอกตามตรงว่าถ้าเป็น Certificate ตัว Educator นี้ อรคิดว่าตัวประโยชน์มันก็ยังไม่ได้เด่นชัดซักเท่าไรค่ะ ฮ่า หลักๆ แล้วมีไว้เพื่อเป็นหลักฐานในการแสดงออกถึงความรู้ความเข้าใจเฉยๆ&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

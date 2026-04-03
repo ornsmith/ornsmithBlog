@@ -1,6 +1,6 @@
 ---
 title: "AI Slides Not Working? Use This 3-Layer Workflow Instead"
-date: 2016-3-24
+date: 2026-03-24
 # weight: 1
 # aliases: ["/first"]
 draft: false
