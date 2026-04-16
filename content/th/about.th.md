@@ -3,7 +3,7 @@ title: About Me
 hidemeta: true
 ---
 
-{{< figure align=center src="/img/pittsburgh-autumn-portrait.JPG" >}}
+{{< figure align=center src="/img/orn-dc.jpg" >}}
 
 สวัสดีค่ะ :)
 เว็บไซต์นี้เป็นบล็อกส่วนตัวของ อร อรวี สมิทธิผล ผู้ใช้นามปากกา Orn Smith ในโลกการเขียนออนไลน์

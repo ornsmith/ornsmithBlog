@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ornsmith.com/th/posts/ai-presentation-workflow/</loc>
-    <lastmod>2026-03-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://ornsmith.com/en/posts/ai-presentation-workflow/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="th"
-                href="https://ornsmith.com/th/posts/ai-presentation-workflow/"
-                />
-  </url><url>
     <loc>https://ornsmith.com/th/</loc>
     <lastmod>2026-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -30,6 +17,19 @@
   </url><url>
     <loc>https://ornsmith.com/th/posts/</loc>
     <lastmod>2026-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ornsmith.com/th/posts/ai-presentation-workflow/</loc>
+    <lastmod>2026-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ornsmith.com/en/posts/ai-presentation-workflow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="https://ornsmith.com/th/posts/ai-presentation-workflow/"
+                />
   </url><url>
     <loc>https://ornsmith.com/th/tags/business/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>

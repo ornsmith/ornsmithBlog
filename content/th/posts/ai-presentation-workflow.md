@@ -1,5 +1,6 @@
 ---
 title: "ทำไมใช้ AI ช่วยทำสไลด์แล้วออกมาบ้ง? เปลี่ยนวิธีใหม่ด้วยการใช้ workflow 3 ขั้นตอนแทนดีกว่า"
+displayTitle: "ทำไมใช้ AI ช่วยทำสไลด์แล้ว<br>ออกมาบ้ง? เปลี่ยนวิธีใหม่ด้วยการใช้ workflow 3 ขั้นตอนแทนดีกว่า"
 date: 2026-03-24
 # weight: 1
 # aliases: ["/first"]
@@ -15,11 +16,8 @@ cover:
     alt: "" # alt text
     # caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
----
-
-{{< figure align=center src="/img/ai-presentation-cover-blog.png" >}}
-
+    hidden: false # only hide on current single page
+    hiddenInSingle: false
 ---
 
 ทุกคนน่าจะเห็นด้วยกันนะคะว่าการทำสไลด์เนี่ยเป็นอะไรที่เสียเวลามาก ถ้าเอาข้อมูลมาดูกัน ก็มีงานวิจัยบอกว่าพนักงานใช้เวลามากถึงประมาณ 7 ชั่วโมงต่อสัปดาห์กับการทำ Presentation นั่นก็คือเกือบๆ 1 วันทำงานเต็มๆ เลย แล้วเวลาส่วนใหญ่ที่ใช้เนี่ย มากถึงเกือบครึ่งนึงเลย ประมาณ 40% อ่ะนะคะ ก็คือใช้ไปกับการแค่จัดแต่ง format ให้มันดูเข้าที่เข้าทาง

@@ -3,7 +3,7 @@ title: About Me
 hidemeta: true
 ---
 
-{{< figure align=center src="/img/pittsburgh-autumn-portrait.JPG" >}}
+{{< figure align=center src="/img/orn-dc.jpg" >}}
 
 ## Hello there! 👋 
 Glad to see you're interested in hearing more about me! This page is kinda long as I've tried to reflect on who I am and who I want to be.

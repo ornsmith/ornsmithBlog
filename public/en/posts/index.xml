@@ -9,23 +9,68 @@
       <url>http://localhost:1313/img/about-orn.jpg</url>
       <link>http://localhost:1313/img/about-orn.jpg</link>
     </image>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.159.2</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Slides Not Working? Use This 3-Layer Workflow Instead</title>
+      <link>http://localhost:1313/en/posts/ai-presentation-workflow/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/ai-presentation-workflow/</guid>
+      <description>&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/ai-presentation-cover-blog.png#center&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;p&gt;The average employee spends about 7 hours a week on presentations. Nearly a full workday. Almost 40% of that time goes to formatting.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Source: empower® / Nielsen PowerPoint study)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;AI presentation tools promise to fix this. They can build a deck in 10 seconds.&lt;/p&gt;
+&lt;p&gt;And yet, you still spend the next hour fixing it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;the structure&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the wording&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;entire sections&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And suddenly, you’ve spent more time editing than if you started from scratch.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Rise of AI Power Users: From Prompting to Orchestrating</title>
+      <link>http://localhost:1313/en/posts/rise-of-ai-power-users/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/rise-of-ai-power-users/</guid>
+      <description>&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/the-great-rewrite-bangkok-cover.jpg#center&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;em&gt;How the best AI users are graduating from chat interfaces to programmatic systems and why you don&amp;rsquo;t need to be a developer to join them&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This expands on my talk at The Great Rewrite in Bangkok. In a 20-minute fireside chat I didn&amp;rsquo;t have room for the frameworks and examples so this article is the follow-up.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Earlier this month at The Great Rewrite in Bangkok, I asked a room full of AI professionals: &amp;ldquo;How many of you use AI daily?&amp;rdquo;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Navigating the AI Governance Landscape: The Players and the Missing Pieces</title>
       <link>http://localhost:1313/en/posts/ai-governace-players-gaps/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/posts/ai-governace-players-gaps/</guid>
-      <description>Over the past 5-6 months, I’ve been diving deep into the world of AI alignment and governance. Given my background as a go-to-market practitioner and my interest in advocacy, I’m particularly fascinated by how this field is becoming more accessible, especially within the private sector. This article is my wrap-up of the research I’ve done so far, along with some thoughts on where the gaps lie in the current AI governance landscape.</description>
+      <description>&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/ai-governance-players-blog-cover.png#center&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Over the past 5-6 months, I’ve been diving deep into the world of AI alignment and governance. Given my background as a go-to-market practitioner and my interest in advocacy, I’m particularly fascinated by how this field is becoming more accessible, especially within the private sector. This article is my wrap-up of the research I’ve done so far, along with some thoughts on where the gaps lie in the current AI governance landscape.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome!</title>
       <link>http://localhost:1313/en/posts/welcome/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/posts/welcome/</guid>
-      <description>Thanks for visiting and sorry my blog in English looks pretty empty here. This blog is still in progress. I&amp;rsquo;m in the middle of migrating from my old site, editing and transferring my content here. Please stay tune!</description>
+      <description>&lt;p&gt;Thanks for visiting and sorry my blog in English looks pretty empty here. This blog is still in progress. I&amp;rsquo;m in the middle of migrating from my old site, editing and transferring my content here. Please stay tune!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
