@@ -3,6 +3,7 @@ title: "AI Slides Not Working? Use This 3-Layer Workflow Instead"
 date: 2026-03-24
 # weight: 1
 # aliases: ["/first"]
+tags: ["AI", "Workflow", "Presentation"]
 draft: false
 hidemeta: false
 UseHugoToc: true

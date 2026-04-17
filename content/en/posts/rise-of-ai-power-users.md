@@ -1,6 +1,6 @@
 ---
 title: "The Rise of AI Power Users: From Prompting to Orchestrating"
-date: 2025-02-24
+date: 2026-02-24
 # weight: 1
 # aliases: ["/first"]
 tags: ["AI"]
