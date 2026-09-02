@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Workflow on Orn Smith&#39;s Blog</title>
+    <link>https://ornsmith.com/en/tags/workflow/</link>
+    <description>Recent content in Workflow on Orn Smith&#39;s Blog</description>
+    <image>
+      <title>Orn Smith&#39;s Blog</title>
+      <url>https://ornsmith.com/img/about-orn.jpg</url>
+      <link>https://ornsmith.com/img/about-orn.jpg</link>
+    </image>
+    <generator>Hugo -- 0.159.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ornsmith.com/en/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Slides Not Working? Use This 3-Layer Workflow Instead</title>
+      <link>https://ornsmith.com/en/posts/ai-presentation-workflow/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ornsmith.com/en/posts/ai-presentation-workflow/</guid>
+      <description>&lt;p&gt;The average employee spends about 7 hours a week on presentations. Nearly a full workday. Almost 40% of that time goes to formatting.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Source: empower® / Nielsen PowerPoint study)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;AI presentation tools promise to fix this. They can build a deck in 10 seconds.&lt;/p&gt;
+&lt;p&gt;And yet, you still spend the next hour fixing it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;the structure&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the wording&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;entire sections&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And suddenly, you’ve spent more time editing than if you started from scratch.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

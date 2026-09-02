@@ -2,8 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ornsmith.com/th/posts/6-new-rules-ai-organizations/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ornsmith.com/en/posts/6-new-rules-ai-organizations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="https://ornsmith.com/th/posts/6-new-rules-ai-organizations/"
+                />
+  </url><url>
+    <loc>https://ornsmith.com/th/tags/ai/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ornsmith.com/en/tags/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="https://ornsmith.com/th/tags/ai/"
+                />
+  </url><url>
+    <loc>https://ornsmith.com/th/tags/ai-strategy/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ornsmith.com/en/tags/ai-strategy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="https://ornsmith.com/th/tags/ai-strategy/"
+                />
+  </url><url>
+    <loc>https://ornsmith.com/th/tags/enterprise/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ornsmith.com/en/tags/enterprise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="https://ornsmith.com/th/tags/enterprise/"
+                />
+  </url><url>
+    <loc>https://ornsmith.com/th/tags/organizations/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ornsmith.com/en/tags/organizations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="https://ornsmith.com/th/tags/organizations/"
+                />
+  </url><url>
     <loc>https://ornsmith.com/th/</loc>
-    <lastmod>2026-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -16,7 +81,20 @@
                 />
   </url><url>
     <loc>https://ornsmith.com/th/posts/</loc>
-    <lastmod>2026-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ornsmith.com/th/tags/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ornsmith.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="https://ornsmith.com/th/tags/"
+                />
   </url><url>
     <loc>https://ornsmith.com/th/posts/ai-presentation-workflow/</loc>
     <lastmod>2026-03-24T00:00:00+00:00</lastmod>
@@ -39,19 +117,6 @@
   </url><url>
     <loc>https://ornsmith.com/th/tags/memories/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ornsmith.com/th/tags/</loc>
-    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://ornsmith.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="th"
-                href="https://ornsmith.com/th/tags/"
-                />
   </url><url>
     <loc>https://ornsmith.com/th/posts/contentshifu-goodbye-memories/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>

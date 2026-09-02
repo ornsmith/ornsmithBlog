@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Organizations on Orn Smith&#39;s Blog</title>
+    <link>https://ornsmith.com/en/tags/organizations/</link>
+    <description>Recent content in Organizations on Orn Smith&#39;s Blog</description>
+    <image>
+      <title>Orn Smith&#39;s Blog</title>
+      <url>https://ornsmith.com/img/about-orn.jpg</url>
+      <link>https://ornsmith.com/img/about-orn.jpg</link>
+    </image>
+    <generator>Hugo -- 0.159.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ornsmith.com/en/tags/organizations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI After Chatbot: 6 New Rules for Building AI Organizations</title>
+      <link>https://ornsmith.com/en/posts/6-new-rules-ai-organizations/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://ornsmith.com/en/posts/6-new-rules-ai-organizations/</guid>
+      <description>&lt;p&gt;2026 has made one thing unmistakably clear: AI is becoming more capable in many dimensions. Its most significant leap, however, is not simply answering questions. It is the growing ability to give AI the tools it needs to complete work end to end.&lt;/p&gt;
+&lt;p&gt;AI can create a presentation using a company&amp;rsquo;s brand and summarize its internal information. It can build a web application, connect it to a database, and add the relevant features. There are many more examples, and using AI to create these things can appear both faster and less expensive.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

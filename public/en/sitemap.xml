@@ -2,6 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ornsmith.com/en/tags/ai/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="https://ornsmith.com/th/tags/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ornsmith.com/en/tags/ai/"
+                />
+  </url><url>
+    <loc>https://ornsmith.com/en/posts/6-new-rules-ai-organizations/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="https://ornsmith.com/th/posts/6-new-rules-ai-organizations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ornsmith.com/en/posts/6-new-rules-ai-organizations/"
+                />
+  </url><url>
+    <loc>https://ornsmith.com/en/tags/ai-strategy/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="https://ornsmith.com/th/tags/ai-strategy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ornsmith.com/en/tags/ai-strategy/"
+                />
+  </url><url>
+    <loc>https://ornsmith.com/en/tags/enterprise/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="https://ornsmith.com/th/tags/enterprise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ornsmith.com/en/tags/enterprise/"
+                />
+  </url><url>
+    <loc>https://ornsmith.com/en/tags/organizations/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="https://ornsmith.com/th/tags/organizations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ornsmith.com/en/tags/organizations/"
+                />
+  </url><url>
+    <loc>https://ornsmith.com/en/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="https://ornsmith.com/th/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ornsmith.com/en/"
+                />
+  </url><url>
+    <loc>https://ornsmith.com/en/tags/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="https://ornsmith.com/th/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ornsmith.com/en/tags/"
+                />
+  </url><url>
+    <loc>https://ornsmith.com/en/tags/agentic-commerce/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ornsmith.com/en/tags/geo/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ornsmith.com/en/posts/geo-is-not-seo-renamed/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ornsmith.com/en/tags/seo/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ornsmith.com/en/posts/ai-presentation-workflow/</loc>
     <lastmod>2026-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -15,37 +118,14 @@
                 href="https://ornsmith.com/en/posts/ai-presentation-workflow/"
                 />
   </url><url>
-    <loc>https://ornsmith.com/en/</loc>
+    <loc>https://ornsmith.com/en/tags/presentation/</loc>
     <lastmod>2026-03-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="th"
-                href="https://ornsmith.com/th/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://ornsmith.com/en/"
-                />
   </url><url>
-    <loc>https://ornsmith.com/en/tags/ai/</loc>
-    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ornsmith.com/en/tags/</loc>
-    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="th"
-                href="https://ornsmith.com/th/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://ornsmith.com/en/tags/"
-                />
+    <loc>https://ornsmith.com/en/tags/workflow/</loc>
+    <lastmod>2026-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ornsmith.com/en/posts/rise-of-ai-power-users/</loc>
-    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ornsmith.com/en/tags/ai-governance/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>

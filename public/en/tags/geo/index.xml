@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GEO on Orn Smith&#39;s Blog</title>
+    <link>https://ornsmith.com/en/tags/geo/</link>
+    <description>Recent content in GEO on Orn Smith&#39;s Blog</description>
+    <image>
+      <title>Orn Smith&#39;s Blog</title>
+      <url>https://ornsmith.com/img/about-orn.jpg</url>
+      <link>https://ornsmith.com/img/about-orn.jpg</link>
+    </image>
+    <generator>Hugo -- 0.159.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ornsmith.com/en/tags/geo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GEO Is Not SEO Renamed</title>
+      <link>https://ornsmith.com/en/posts/geo-is-not-seo-renamed/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://ornsmith.com/en/posts/geo-is-not-seo-renamed/</guid>
+      <description>&lt;p&gt;The industry is treating GEO as if it is just SEO with a different algorithm. It is not just that.&lt;/p&gt;
+&lt;h2 id=&#34;welcome-to-the-geo-and-agentic-commerce-series&#34;&gt;Welcome to the GEO and Agentic Commerce Series&lt;/h2&gt;
+&lt;p&gt;In this series, I look at four connected questions: how AI changes visibility, what agents actually see on websites, the infrastructure behind the machine web, and why payments may become the most strategic layer of all.&lt;/p&gt;
+&lt;p&gt;This article is part 1 of this series.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
